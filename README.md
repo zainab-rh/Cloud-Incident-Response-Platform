@@ -2,7 +2,7 @@
 
 A technical reference platform documenting the **NIST SP 800-61** lifecycle. I built this to bridge the gap between cybersecurity theory and the practical response scripts used during breach containment.
 
-**[Live Site](https://dhi0grk4hu2h4.cloudfront.net/) **
+**[Live Site](https://dhi0grk4hu2h4.cloudfront.net/)**
 
 ---
 
